@@ -1,0 +1,96 @@
+Madalla sosai! Zamu ci gaba daga homepage, yanzu zamu ƙara wasu shafuka (pages) da abubuwan ciki. Ga tsarin da zamu bi:
+
+
+---
+
+1. Shafin “about.html” (Menene Forex?)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Menene Forex?</title>
+</head>
+<body>
+  <h1>Menene Forex?</h1>
+  <p>Forex (Foreign Exchange) kasuwa ce ta musayar kudade tsakanin ƙasashe. Ana saye da sayar da kudade irin su USD, GBP, EUR da sauransu.</p>
+  <p>A nan zamu koya maka daga mataki na farko har zuwa na gaba.</p>
+  <a href="index.html">Koma Gida</are>
+</body>
+</html>
+
+
+---
+
+2. Shafin “lessons.html” (Darussa)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Darussa</title>
+</head>
+<body>
+  <h1>Darussa</h1>
+  <ul>
+    <li><a href="#">Lesson 1: Menene pip?</a></li>
+    <li><a href="#">Lesson 2: Lot size da leverage</a></li>
+    <li><a href="#">Lesson 3: BOS da CHoCH</a></li>
+    <li><a href="#">Lesson 4: Timeframes da Trend</a></li>
+  </ul>
+  <a href="index.html">Koma Gida</a>
+</body>
+</html>
+
+
+---
+
+3. Shafin “strategies.html” (Strategies)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Strategies</title>
+</head>
+<body>
+  <h1>Forex Strategies</h1>
+  <p>Za mu koya maka game da:</p>
+  <ul>
+    <li>ICT Concept</li>
+    <li>Smart Money Concept (SMC)</li>
+    <li>Support and Resistance</li>
+    <li>Break of Structure (BOS)</li>
+  </ul>
+  <a href="index.html">Koma Gida</a>
+</body>
+</html>
+
+
+---
+
+4. Shafin “contact.html” (Tuntuɓi Mu)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tuntuɓi Mu</title>
+</head>
+<body>
+  <h1>Tuntuɓi Mu</h1>
+  <p>Idan kana da tambaya, turo mana:</p>
+  <form>
+    <label>Sunan ka:</label><br>
+    <input type="text" name="name"><br><br>
+
+    <label>Saƙon ka:</label><br>
+    <textarea name="message" rows="5" cols="30"></textarea><br><br>
+
+    <input type="submit" value="Tura">
+  </form>
+  <a href="index.html">Koma Gida</a>
+</body>
+</html>
+
+
+---
+
+Wannan shine mataki na farko. Idan kana son mu ƙara hotuna, design (CSS), ko ka koyi yadda ake upload zuwa internet (GitHub Pages ko free hosting), sai ka gaya min. Kana son mu ci gaba da sassaka design (CSS) ko ka fara upload?
+
